@@ -10,7 +10,9 @@ When the project faced difficulties TOSanthony left the prject in my hands.
 
 After rebuilding lost files & fixing broken code I'm preparing to fix and salvage what i can of the project.
 
-i have recoverd and rebuilt some of the sorce code useing my limeted programing skills & with the help of ai amd I have restord a working vesion of the project with some bugs
+i have recoverd & rebuilt some of the sorce code useing my limmeted programing skills & with the help of ai
+
+Im happy to say i have restord a working vesion of the project with some bugs
 
 curently a bug with the themes layers is holding develpment,
 
