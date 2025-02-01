@@ -1,40 +1,30 @@
-# >>>>>> Uniflow  >>>>>>
+Uniflow: Windows GUI Frontend for Emulation
+Project Overview
+Uniflow is a Windows-based graphical user interface application that evolved from the WiiFlow and CEMUgui projects. The application serves as a comprehensive frontend for emulator management and game library organization.
+Project History
+The project was originally led by TOSanthony, with my initial involvement as a graphic artist. Following TOSanthony's departure, I assumed the role of lead developer and undertook a significant rebuild of the project after experiencing data loss.
+Current Status
+Through a combination of programming experience and AI assistance, I've successfully restored the project to a functional state. While most core features are operational, a critical bug affecting the theme system currently prevents a full release.
+Features
+Working Components
 
-Tha Source!
+Comprehensive game library management
+Online scraper integration for game metadata
+Local scraper functionality
+Game selection interface
+Automatic emulator launch system
+Seamless return to Uniflow post-emulator closure
+Real-time clock display
 
-Uniflow is a Windows GUI application that evolved from the WiiFlow and CEMUgui Projects.
+Theme System
 
-Originally joining as a graphic artist, I took over the lead development roal from TOSanthony. 
+175 themes completed
+34 additional themes planned for post-launch update
+Current development blocked by theme layer rendering bug
+Theme display functionality requires resolution before release
 
-When the project faced difficulties TOSanthony left the project in my hands.
-
-After rebuilding lost files & fixing broken code I'm preparing to fix and salvage what i can of the project.
-
-i have recoverd & rebuilt some of the sorce code useing my limmeted programing skills & with the help of ai
-
-Im happy to say i have restord a working vesion of the project with some bugs
-
-curently a bug with the themes layers is holding develpment,
-
-if it can be fixed then release will be made
-
-curently the project has 175 completed themes, with 34 more planned for a post-launch update.
-
-However untill the themes layers bug can be fixed the themes will not display properly.
-
-manny of the other fetures of Uniflow do work however including
-
-library
-
-intigrated online scraper fetures
-
-intigrated local scraper fetures
-
-game selection
-
-automatic emulator launching
-
-automatic return to uniflow after closing emulator
+Technical Challenges
+The primary obstacle preventing release is a bug within the theme layer system that impacts proper theme rendering. Once this issue is resolved, the project will be prepared for public release with full theming capabilities.
 
 time display
 
