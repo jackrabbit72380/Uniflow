@@ -2,7 +2,7 @@
 
 Tha Source!
 
- Uniflow is a Windows GUI application that evolved from the WiiFlow and CEMUgui Projects.
+Uniflow is a Windows GUI application that evolved from the WiiFlow and CEMUgui Projects.
 
 Originally joining as a graphic artist, I took over the lead development roal from TOSanthony. 
 
@@ -25,11 +25,17 @@ However untill the themes layers bug can be fixed the themes will not display pr
 manny of the other fetures of Uniflow do work however including
 
 library
+
 intigrated online scraper fetures
+
 intigrated local scraper fetures
+
 game selection
-automatic emulator launching,
+
+automatic emulator launching
+
 automatic return to uniflow after closing emulator
+
 time display
 
 
