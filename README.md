@@ -6,7 +6,7 @@ Uniflow is a Windows GUI application that evolved from the WiiFlow and CEMUgui P
 
 Originally joining as a graphic artist, I took over the lead development roal from TOSanthony. 
 
-When the project faced difficulties TOSanthony left the prject in my hands.
+When the project faced difficulties TOSanthony left the project in my hands.
 
 After rebuilding lost files & fixing broken code I'm preparing to fix and salvage what i can of the project.
 
