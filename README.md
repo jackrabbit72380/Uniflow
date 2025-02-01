@@ -8,7 +8,7 @@ Originally joining as a graphic artist, I took over the lead development roal fr
 
 When the project faced difficulties TOSanthony left the prject in my hands.
 
-After rebuilding lost files & fixing broken code, I'm preparing to fix and salvage what i can of the project.
+After rebuilding lost files & fixing broken code I'm preparing to fix and salvage what i can of the project.
 
 i have recoverd and rebuilt some of the sorce code useing my limeted programing skills & with the help of ai amd I have restord a working vesion of the project with some bugs
 
