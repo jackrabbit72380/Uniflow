@@ -1,4 +1,4 @@
-#Uniflow: Windows GUI Frontend for Emulation
+# Uniflow: Windows GUI Frontend for Emulation
 Project Overview
 Uniflow is a Windows-based graphical user interface application that evolved from the WiiFlow and CEMUgui projects. The application serves as a comprehensive frontend for emulator management and game library organization.
 Project History
