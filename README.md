@@ -2,7 +2,7 @@
 
 Uniflow is a Windows GUI Frontend for Emulation.
 
-It fetures a Windows-based graphical user interface that evolved from the WiiFlow and CEMUGUI projects. The application serves as a comprehensive frontend for emulator management & game library organization.
+It fetures a Windows-based graphical user interface that evolved from the FlowMii,WiiFlow and CEMUGUI projects. The application serves as a comprehensive frontend for emulator management & game library organization.
 
 It's developed using AutoIt for programming, with rendering handled by the Irrlicht 3D game engine through a plugin system. 
 
