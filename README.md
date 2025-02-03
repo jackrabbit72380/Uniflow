@@ -35,4 +35,7 @@ time display
 Join the official discord server for more information
 https://discord.gg/SfYEGzAmdK
 
+## Screenshot
+![screenshot](https://github.com/jackrabbit72380/Uniflow/screenshot.png)
+
 
