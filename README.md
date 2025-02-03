@@ -1,45 +1,82 @@
-# Uniflow
+Uniflow Overview
+Uniflow is a Windows-based GUI frontend designed to streamline emulator management and game library organization. Below is a detailed breakdown of its features, development history, current status, and technical challenges.
 
-Uniflow is a Windows GUI Frontend for Emulation.
+Purpose
+Uniflow serves as a comprehensive frontend for managing emulators and organizing game libraries. It provides users with an intuitive interface to browse, launch, and manage their games seamlessly.
 
+Compatibility
+Current Support: Xenia emulator (Xbox 360 emulator).
 
-# Pourpus
-The application serves as a comprehensive frontend for emulator management & game library organization.
+Future Plans: Support for additional emulators is planned.
 
-# Compability
-It's importent to know that This version is only working with xenia emulator at the moment, with more emulator support planed in the future.
+Development
+Programming Language: AutoIt.
 
-# Development
-It's developed using AutoIt for programming, with rendering handled by the Irrlicht 3D game engine through a plugin system. 
+Rendering Engine: Irrlicht 3D game engine (via a plugin system).
 
-# History
-It fetures a Windows-based graphical user interface that evolved from the FlowMii,WiiFlow and CEMUGUI projects. 
-The project was originally led by TOSanthony, with my initial involvement as a graphic artist. Following TOSanthony's departure, I assumed the role of lead developer & undertook a significant rebuild of the project. After experiencing some data loss. Through a combination of programming experience and AI assistance, I've successfully restored the project to a functional state. While most core features are operational, a critical bug affecting the theme system currently prevents a full Functional application. because at the moment themes are not fully working properly. i personaly have limmeted programing skills my self so I'm hopeing The project will now gain new users & developers so that I may grow the project further in the programing sence. My time with the project has given me a chance to use my Grapic art's skills to create over 200+ themes for the project that you will see as the become avalible,
-its save to say the project has all the grapics and art that it could ever need! but now the project needs Programers.
+Origins: Evolved from the FlowMii, WiiFlow, and CEMUGUI projects.
 
-# Current Status
-working build
-Changed project from Privet to pubic
+Leadership:
 
-# Features
+Originally led by TOSanthony.
+
+Current lead developer: jackrabbit72380 (initially involved as a graphic artist).
+
+Rebuild: After data loss and TOSanthony's departure, the project was significantly rebuilt with the help of AI and programming experience.
+
+History
+The project began as a graphical evolution of earlier frontend projects.
+
+The current developer took over after TOSanthony's departure and rebuilt the project from the ground up.
+
+Over 200+ themes have been created, showcasing the developer's graphic art skills.
+
+The project transitioned from private to public to attract more users and developers.
+
+Current Status
+Working Build: Core features are functional.
+
+Public Release: The project is now open to the public, with the hope of attracting developers to contribute and expand its capabilities.
+
+Features
 Working Components
-Comprehensive game library management
-Online scraper integration for game metadata
-Local scraper functionality
-Game selection interface
-Automatic emulator launch system
-Seamless return to Uniflow post-emulator closure
-Real-time clock display
-time display
+Game Library Management: Organize and manage your game collection.
+
+Online Scraper: Fetch game metadata automatically.
+
+Local Scraper: Scrape metadata from local files.
+
+Game Selection Interface: Browse and select games easily.
+
+Emulator Launch System: Automatically launch the Xenia emulator.
+
+Seamless Return: Return to Uniflow after closing the emulator.
+
+Real-Time Clock: Displays the current time.
+
 Theme System
+Completed Themes: 175 themes are ready for use.
 
-175 themes completed
-34 additional themes planned for post-launch update
-Current development blocked by theme layer rendering bug
-Theme display functionality requires resolution before release
+Planned Themes: 34 additional themes are planned for a post-launch update.
 
-# Technical Challenges
-The primary obstacle preventing release is a bug within the theme layer system that impacts proper theme rendering. Once this issue is resolved, the project will be prepared for public release with full theming capabilities.
+Current Issue: A bug in the theme layer system prevents proper rendering, blocking the release of the theme functionality.
+
+Technical Challenges
+Primary Issue: A bug in the theme layer system affects theme rendering.
+
+Release Block: The theme system must be fixed before the project can be fully released.
+
+Call for Developers
+The project is in need of programmers to help resolve the theme system bug and expand its functionality. If you have experience with AutoIt, Irrlicht, or GUI development, your contributions would be greatly appreciated.
+
+Join the Community
+For more information, updates, and to contribute, join the official Discord server:
+Uniflow Discord Server
+
+Screenshot
+Uniflow Screenshot
+
+Uniflow is a passion project with a strong foundation in graphic design and emulator management. With the help of the community, it has the potential to become a powerful tool for emulation enthusiasts. Join the effort and help bring Uniflow to its full potential!
 
 Join the official discord server for more information
 https://discord.gg/SfYEGzAmdK
