@@ -32,4 +32,7 @@ The primary obstacle preventing release is a bug within the theme layer system t
 
 time display
 
+Join the official discord server for more information
+https://discord.gg/SfYEGzAmdK
+
 
