@@ -36,6 +36,6 @@ Join the official discord server for more information
 https://discord.gg/SfYEGzAmdK
 
 ## Screenshot
-![screenshot](https://github.com/jackrabbit72380/Uniflow/blob/master/screenshot.png)
+![screenshot](https://github.com/jackrabbit72380/Uniflow/blob/master/Screenshot.png)
 
 
