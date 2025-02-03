@@ -2,7 +2,8 @@
 Uniflow is a Windows-based GUI frontend designed to streamline emulator management and game library organization. Below is a detailed breakdown of its features, development history, current status, and technical challenges.
 
 # Purpose
-Uniflow serves as a comprehensive frontend for managing emulators and organizing game libraries. It provides users with an intuitive interface to browse, launch, and manage their games seamlessly. In a Highly Customizable Envorment.
+Uniflow serves as a comprehensive frontend for managing / launching emulators & organizing game libraries. It provides users with an intuitive interface to browse, launch, and manage their games & emulator's seamlessly. In a Highly Customizable 3d Envorment!
+This brings controler support to emulators that may not suppot "launching from controler"
 
 # Compatibility
 Current Support: Xenia emulator (Xbox 360 emulator).
