@@ -42,29 +42,25 @@ Public Release: The project is now open to the public, with the hope of attracti
 Working Components
 Game Library Management: Organize and manage your game collection.
 
-Online Scraper: Fetch game metadata automatically.
-
+Online Scraper: Fetch game metadata automatically. (Curently Disabled)
+Automatic Download box art form gametdb.com for Switch,GC,Wii,WiiU (Currently Disabled)
+Xbox 360 Box Covers are done localy for now!
 Local Scraper: Scrape metadata from local files.
-
-Game Selection Interface: Browse and select games easily.
-
-Emulator Launch System: Automatically launch the Xenia emulator.
-
+Game Selection Interface: Browse and select games easily By useing advanced input method such as mouse,keyboard or controler
+Emulator Launch System: Automatically launch the Xenia emulator when game is chosen.
 Seamless Return: Return to Uniflow after closing the emulator.
-
 Real-Time Clock: Displays the current time.
 
-Theme System
-Completed Themes: 175 themes are ready for use.
-
+# Theme System
+New Stand alone select theme application!
+New Stand alone select flowmode application!
+Completed Themes: 175 themes are ready for use. (Current status in texting only the default theme is avalible)
 Planned Themes: 34 additional themes are planned for a post-launch update.
 
-Current Issue: A bug in the theme layer system prevents proper rendering, blocking the release of the theme functionality.
-
 # Technical Challenges
+Current Issue: A bug in the theme layer system prevents proper rendering, blocking the release of the theme functionality.
 Primary Issue: A bug in the theme layer system affects theme rendering.
-
-Release Block: The theme system must be fixed before the project can be fully released.
+Release Block: The theme system must be fixed before the project can be fully released!
 
 # Call for Developers
 The project is in need of programmers to help resolve the theme system bug and expand its functionality. If you have experience with AutoIt, Irrlicht, or GUI development, your contributions would be greatly appreciated.
