@@ -36,8 +36,8 @@ The project transitioned from private to public to attract more users and develo
 
 # Current Status
 Working Build: Core features are functional.
-
 Public Release: The project is now open to the public, with the hope of attracting developers to contribute and expand its capabilities.
+to develop and compile Uniflow its best to use autoit-v3.3.8.1 with the irrlicht-1.8.5 plugin.
 
 # Features
 Working Components
