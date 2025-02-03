@@ -14,7 +14,8 @@ It's developed using AutoIt for programming, with rendering handled by the Irrli
 
 History
 It fetures a Windows-based graphical user interface that evolved from the FlowMii,WiiFlow and CEMUGUI projects. 
-The project was originally led by TOSanthony, with my initial involvement as a graphic artist. Following TOSanthony's departure, I assumed the role of lead developer & undertook a significant rebuild of the project after experiencing some data loss. Through a combination of programming experience and AI assistance, I've successfully restored the project to a functional state. While most core features are operational, a critical bug affecting the theme system currently prevents a full release. because at the moment themes are not fully working, properly.
+The project was originally led by TOSanthony, with my initial involvement as a graphic artist. Following TOSanthony's departure, I assumed the role of lead developer & undertook a significant rebuild of the project. After experiencing some data loss. Through a combination of programming experience and AI assistance, I've successfully restored the project to a functional state. While most core features are operational, a critical bug affecting the theme system currently prevents a full Functional application. because at the moment themes are not fully working properly. i personaly have limmeted programing skills my self so I'm hopeing The project will now gain new users & developers so that I may grow the project further in the programing sence. My time with the project has given me a chance to use my Grapic art's skills to create over 200+ themes for the project that you will see as the become avalible,
+its save to say the project has all the grapics and art that it could ever need! but now the project needs Programers.
 
 Current Status
 working build
