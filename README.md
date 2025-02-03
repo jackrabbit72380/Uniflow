@@ -1,15 +1,15 @@
-Uniflow Overview
+# Uniflow Overview
 Uniflow is a Windows-based GUI frontend designed to streamline emulator management and game library organization. Below is a detailed breakdown of its features, development history, current status, and technical challenges.
 
-Purpose
+# Purpose
 Uniflow serves as a comprehensive frontend for managing emulators and organizing game libraries. It provides users with an intuitive interface to browse, launch, and manage their games seamlessly.
 
-Compatibility
+# Compatibility
 Current Support: Xenia emulator (Xbox 360 emulator).
 
 Future Plans: Support for additional emulators is planned.
 
-Development
+# Development
 Programming Language: AutoIt.
 
 Rendering Engine: Irrlicht 3D game engine (via a plugin system).
@@ -24,7 +24,7 @@ Current lead developer: jackrabbit72380 (initially involved as a graphic artist)
 
 Rebuild: After data loss and TOSanthony's departure, the project was significantly rebuilt with the help of AI and programming experience.
 
-History
+# History
 The project began as a graphical evolution of earlier frontend projects.
 
 The current developer took over after TOSanthony's departure and rebuilt the project from the ground up.
@@ -33,12 +33,12 @@ Over 200+ themes have been created, showcasing the developer's graphic art skill
 
 The project transitioned from private to public to attract more users and developers.
 
-Current Status
+# Current Status
 Working Build: Core features are functional.
 
 Public Release: The project is now open to the public, with the hope of attracting developers to contribute and expand its capabilities.
 
-Features
+# Features
 Working Components
 Game Library Management: Organize and manage your game collection.
 
@@ -61,27 +61,26 @@ Planned Themes: 34 additional themes are planned for a post-launch update.
 
 Current Issue: A bug in the theme layer system prevents proper rendering, blocking the release of the theme functionality.
 
-Technical Challenges
+# Technical Challenges
 Primary Issue: A bug in the theme layer system affects theme rendering.
 
 Release Block: The theme system must be fixed before the project can be fully released.
 
-Call for Developers
+# Call for Developers
 The project is in need of programmers to help resolve the theme system bug and expand its functionality. If you have experience with AutoIt, Irrlicht, or GUI development, your contributions would be greatly appreciated.
 
 Join the Community
 For more information, updates, and to contribute, join the official Discord server:
 Uniflow Discord Server
 
-Screenshot
-Uniflow Screenshot
+## Screenshot
+![screenshot](https://github.com/jackrabbit72380/Uniflow/blob/main/Screenshot.png)
 
 Uniflow is a passion project with a strong foundation in graphic design and emulator management. With the help of the community, it has the potential to become a powerful tool for emulation enthusiasts. Join the effort and help bring Uniflow to its full potential!
 
 Join the official discord server for more information
 https://discord.gg/SfYEGzAmdK
 
-## Screenshot
-![screenshot](https://github.com/jackrabbit72380/Uniflow/blob/main/Screenshot.png)
+
 
 
