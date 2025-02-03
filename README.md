@@ -6,7 +6,7 @@ Uniflow is a Windows GUI Frontend for Emulation.
 Pourpus
 The application serves as a comprehensive frontend for emulator management & game library organization.
 
-Compaability
+Compability
 It's importent to know that This version is only working with xenia emulator at the moment, with more emulator support planed in the future.
 
 Development
