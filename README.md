@@ -55,7 +55,7 @@ Real-Time Clock: Displays the current time.
 # Theme System
 New Stand alone select theme application!
 New Stand alone select flowmode application!
-Completed Themes: 175 themes are ready for use. (Current status in texting only the default theme is avalible)
+Completed Themes: 175 themes are ready for use. (Current status in testing only the default theme is avalible)
 Planned Themes: 34 additional themes are planned for a post-launch update.
 
 # Developer Log
