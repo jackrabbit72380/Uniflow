@@ -60,7 +60,8 @@ Planned Themes: 34 additional themes are planned for a post-launch update.
 
 # Log
 After 7+ years develpment, developer started keeping a log
-log started stardate 2/5/2025 application stable Project relesed & open to the public
+log started stardate 2/5/2025 application stable! Project relesed & open to the public!
+enjoy!
 
 # Call for Developers
 The project is in need of programmers to help resolve the theme system bug and expand its functionality. If you have experience with AutoIt, Irrlicht, or GUI development, your contributions would be greatly appreciated.
