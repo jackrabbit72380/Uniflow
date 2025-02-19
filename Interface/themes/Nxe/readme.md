@@ -2,8 +2,8 @@
 This repository contains the **Nxe** theme for the Uniflow interface. The theme is designed to provide a sleek and modern look for the Uniflow application.
 
 ## Preview
-
-![Nxe Theme Preview](./Interface/themes/Nxe/preview.png)
+https://github.com/jackrabbit72380/Uniflow/tree/main/Interface/themes/Nxe
+![Nxe Theme Preview](.[/Interface/themes/Nxe](https://github.com/jackrabbit72380/Uniflow/tree/main/Interface/themes/Nxe)/preview.png)
 
 ## Installation
 
