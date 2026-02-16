@@ -47,18 +47,28 @@ Working Components
 Game Library Management: Organize and manage your game collection.
 
 Online Scraper: Fetch game metadata automatically. (Curently Disabled)
+
 Automatic Download box art form gametdb.com for Switch,GC,Wii,WiiU (Currently Disabled)
+
 Xbox 360 Box Covers are done localy for now!
+
 Local Scraper: Scrape metadata from local files.
-Game Selection Interface: Browse and select games easily By useing advanced input method such as mouse,keyboard or controler
+
+Game Selection Interface: Browse & select games easily By useing advanced input method such as mouse,keyboard or controler.
+
 Emulator Launch System: Automatically launch the Xenia emulator when game is chosen.
+
 Seamless Return: Return to Uniflow after closing the emulator.
+
 Real-Time Clock: Displays the current time.
 
 ## Theme System
 New Stand alone select theme application!
+
 New Stand alone select flowmode application!
-Completed Themes: 175 themes are ready for use. (Current status in testing only the default theme is avalible)
+
+Completed Themes: 175 themes are ready for use. (Current status in testing.)
+
 Planned Themes: 34 additional themes are planned for a post-launch update.
 
 ## Developer Log
