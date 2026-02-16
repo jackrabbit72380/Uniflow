@@ -1,4 +1,4 @@
-## Welcome to Uniflow A 3d User Interface Dashboard Libray for all The Content you love!
+## Welcome to Uniflow A 3D User Interface Dashboard Libray for all The Content you love!
 
 Uniflow is an Open sorced First of Its kind Windows-based GUI frontend designed to streamline emulator management,Launching & game,media library organization.
 
