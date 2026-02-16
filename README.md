@@ -19,6 +19,10 @@ Programming Language: AutoIt.
 Rendering Engine: Irrlicht 3D game engine (via a plugin system).
 
 Origins: Evolved from the FlowMii, WiiFlow, and CEMUGUI projects.
+With inspration from The Xbox 360 Blades Dashboard & The Wii & Wii U Dashboards.
+We wanted something along these lines for the PC but More flexable With support for all Consoles & Emulatores Pc Games & Media Types!
+Our goal was to have The ability to have complety custom themes & 3d box art while maintaining the ability to Semlesly Browse our librarys, launch games & emulators with only our controlers.
+At last Uniflow was born!
 
 Leadership:
 
