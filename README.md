@@ -1,5 +1,7 @@
-# Welcome to Uniflow Dashboard Overview
-Uniflow is an Open sorced First of Its kind Windows-based GUI frontend designed to streamline emulator management,Launching & game library organization. Below is a detailed breakdown of its features, development history, current status, and technical challenges.
+## Welcome to Uniflow Dashboard 
+
+Uniflow is an Open sorced First of Its kind Windows-based GUI frontend designed to streamline emulator management,Launching & game,media library organization.
+Below is a detailed breakdown of its unique features, development history, current status, & technical challenges.
 
 # Purpose
 Uniflow serves as a comprehensive frontend for managing / launching emulators & organizing game libraries. It provides users with an intuitive interface to browse, launch, and manage their games & emulator's seamlessly. In a Highly Customizable 3d Envorment!
