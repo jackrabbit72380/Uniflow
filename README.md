@@ -80,8 +80,11 @@ Download the whole Project as a Zip. Extract to it's own folder. Launch Uniflow!
 # System Requairements
 Only Tested on Windows 10 & Windows 11. Not sure if it will work on older windows versions but you can try it and let me know!
 
-Join the official discord server for more information
+Join the official discord uniflow community server for more information
 https://discord.gg/SfYEGzAmdK
+
+or Check out the New official Uniflow Themes Hub website on Google Drive!
+https://sites.google.com/view/uniflow-online-hub/home
 
 
 
