@@ -74,6 +74,7 @@ Uniflow Discord Server
 Uniflow is a passion project with a strong foundation in graphic design and emulator management. With the help of the community, it has the potential to become a powerful tool for emulation enthusiasts. Join the effort and help bring Uniflow to its full potential!
 
 # installation instructions
+Click the Green Code Box up on the top of this page 
 Download the whole Project as a Zip. Extract to it's own folder. Launch Uniflow! Enjoy!
 
 # System Requairements
